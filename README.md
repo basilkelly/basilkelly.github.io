@@ -1,0 +1,2 @@
+# What is basilkelly.github.io?
+This is a basic HTML website created to demonstrate html and css fundamentals by creating a webpage for a character or topic and experimenting with formatting and styles. The movie screenshot images were obtained from google images and text was created from a lorem ipsum generator. The site was then deploying using github pages and can be viewed here [Here](https://basilkelly.github.io/). 
